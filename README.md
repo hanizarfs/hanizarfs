@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hanizar Florian Sukma
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I am an undergraduate student in Information and Computer Education, Sebelas Maret University. I'm currently studying semester 2. Even though it's relatively new, I've had experience in interesting in the UI/UX and Web Design fields. Even so, I still really need knowledge about UI/UX Design and Programming.
 
