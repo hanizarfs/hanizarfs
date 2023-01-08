@@ -8,8 +8,6 @@ Skills: HTML / CSS / JS / PYTHON / PHP / REACT / JAVA
 - 🔭 I’m currently working on Skole Indonesia - Fullstack Developer 
 - 👯 I’m looking to collaborate on Startup 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanizarfs)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanizarfs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanizarfs&show_icons=true)  
