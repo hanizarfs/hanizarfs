@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanizar Florian Sukma</h1>
-<h3 align="center">A passionate software engineer from Indonesia</h3>
+<h3 align="center">A junior software engineer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
